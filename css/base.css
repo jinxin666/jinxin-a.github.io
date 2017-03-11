@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	color: #808080;
+}
+a{
+	text-decoration: none;
+}
+
+
+
+
+
+
+a{
+	text-decoration: none;
+}
+ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+ul li{
+	width: 25%;
+	height: auto;
+	float: left;
+}
+ul li a{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+ul li a .tupian{
+	width: 1.55rem;
+	height: 1.55rem;
+	background: red;
+}
+ul li a .wenzi{
+	font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+ul li{
+	width: 25%;
+	height: auto;
+	float: left;
+}
+ul li a{
+	display: block;
+	width: 100%;
+	height: auto;
+	background: yellow;
+}
+ul li a .tupian{
+	margin: 0 auto;
+	width: 1.55rem;
+	height: 1.55rem;
+	background: red;
+}
+ul li a .wenzi{
+	font-size: 20px;
+	
+}
